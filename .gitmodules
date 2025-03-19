@@ -1,0 +1,3 @@
+[submodule "todolist-gateway"]
+	path = todolist-gateway
+	url = https://github.com/itmrchow/todolist-gateway
